@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.Dotnet", "Learning.Dotnet\Learning.Dotnet.csproj", "{BCABF92F-1975-4C94-A87C-B5AF48BFE485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn.Redis", "Learn.Redis\Learn.Redis.csproj", "{B14B6AEA-EC9E-4BE9-9ECF-21800FC19537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.AsyncCode", "Learning.AsyncCode\Learning.AsyncCode.csproj", "{98F9B96C-B934-4AC3-9EA3-792F6E10D98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCABF92F-1975-4C94-A87C-B5AF48BFE485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCABF92F-1975-4C94-A87C-B5AF48BFE485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCABF92F-1975-4C94-A87C-B5AF48BFE485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCABF92F-1975-4C94-A87C-B5AF48BFE485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14B6AEA-EC9E-4BE9-9ECF-21800FC19537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14B6AEA-EC9E-4BE9-9ECF-21800FC19537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14B6AEA-EC9E-4BE9-9ECF-21800FC19537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14B6AEA-EC9E-4BE9-9ECF-21800FC19537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F9B96C-B934-4AC3-9EA3-792F6E10D98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F9B96C-B934-4AC3-9EA3-792F6E10D98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F9B96C-B934-4AC3-9EA3-792F6E10D98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F9B96C-B934-4AC3-9EA3-792F6E10D98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
